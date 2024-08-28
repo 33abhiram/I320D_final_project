@@ -1,5 +1,7 @@
-# Predicting Loan Eligibility Readme
-The goal of our project is to create a machine learning model that's able to predict loan eligibility based on a set of features from a data set we found on Kaggle 
+# Predicting Loan Eligibility
+The goal of our project is to create a classification model that's able to predict loan eligibility based on a set of financial features from a 65,000 row kaggle dataset.
+
+Contributors: Abhiram Naredla, Veer Patel, Marcus Hanania, Riya Lodha
 
 # Loading Libraries 
 
